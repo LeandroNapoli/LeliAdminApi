@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeliAdminApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ca682eaa9cf10bfbb116cd8d663ee586cb82de1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9471f053d73911e049cb2f71d8191700e373a54d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeliAdminApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeliAdminApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
