@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9jkd98RbLkQhg1QYgUHgXfSRWfrXVXXrajpvk0lOerDJib3HWuyyuTP1i8T30vNpkzBsZBUCED3obqpFFTiw5g==",
+  "dgSpecHash": "NAlby5K0aYZod23xQglDBOCNtpcZrttJtvSVv1Pp5tCDd52ndChT1j854/8XW1P4gJZuGDnR+yJCEDaNslvfuQ==",
   "success": true,
   "projectFilePath": "D:\\VISUAL STUDIO\\LeliAdmin\\LeliAdminApi\\LeliAdminApi\\LeliAdminApi.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\napol\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeliAdminApi", "LeliAdminApi\LeliAdminApi.csproj", "{0DDE2B30-18E9-42E7-81C8-1FAB77B3D0DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeliAdminApi.Repository", "LeliAdmin.Api\LeliAdminApi.Repository.csproj", "{BAF2F513-E74E-4E76-8E28-2F5AEDB68463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeliAdminApi.Core", "LeliAdminApi.Core\LeliAdminApi.Core.csproj", "{38BDD928-8AA9-4704-BD6E-933FD140BD28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0DDE2B30-18E9-42E7-81C8-1FAB77B3D0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DDE2B30-18E9-42E7-81C8-1FAB77B3D0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DDE2B30-18E9-42E7-81C8-1FAB77B3D0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF2F513-E74E-4E76-8E28-2F5AEDB68463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF2F513-E74E-4E76-8E28-2F5AEDB68463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF2F513-E74E-4E76-8E28-2F5AEDB68463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF2F513-E74E-4E76-8E28-2F5AEDB68463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38BDD928-8AA9-4704-BD6E-933FD140BD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BDD928-8AA9-4704-BD6E-933FD140BD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BDD928-8AA9-4704-BD6E-933FD140BD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BDD928-8AA9-4704-BD6E-933FD140BD28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
